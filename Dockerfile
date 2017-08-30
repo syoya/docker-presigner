@@ -1,4 +1,4 @@
-FROM minodisk/presigner:1.1.2
+FROM minodisk/presigner:1.2.0
 
 WORKDIR /presigner
 COPY run.sh ./
