@@ -9,4 +9,5 @@ presigner \
   -account /secret/google-auth.json \
   -bucket $BUCKET \
   -prefix $PREFIX \
-  -port $PORT
+  -port $PORT \
+  -verbose
